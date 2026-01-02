@@ -2,6 +2,12 @@
 
 This directory contains comprehensive technical documentation for the NexGen-AI SoC project.
 
+## ⭐ Key Documents
+
+- **[DUAL_TRACK_STRATEGY_APPROVED.md](DUAL_TRACK_STRATEGY_APPROVED.md)** - Complete dual-track implementation plan
+- **[Stakeholder Review](stakeholder_review/)** - Executive decision materials
+- **[Project Status](project_status/)** - Status reports and milestones
+
 ## Contents
 
 ### Trade-off Analyses

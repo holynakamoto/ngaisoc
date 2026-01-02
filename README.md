@@ -4,6 +4,15 @@
 
 **NexGen-AI SoC** is a comprehensive architecture design for a high-performance, scalable GPU System-on-Chip (SoC) optimized for AI workloads in data center environments. This project demonstrates competency in Principal System Architect roles, focusing on architectural definition, performance/power trade-offs, subsystem specification, and cross-functional collaboration.
 
+**Status:** 🟢 **DUAL-TRACK STRATEGY APPROVED** - Execution Phase  
+**Investment:** $88M NRE | **Expected Return:** $1.88B NPV  
+**Timeline:** v1.0 Q4 2027, v2.0 Q1 2028
+
+**Quick Links:**
+- [Project Overview](PROJECT_OVERVIEW.md) - Complete project summary
+- [Dual-Track Strategy](documentation/DUAL_TRACK_STRATEGY_APPROVED.md) - Implementation plan
+- [Architecture Specs](architecture/) - v1.0 (frozen) and v2.0 (proposal)
+
 ## Key Features
 
 - **Modular Chiplet Design:** Supports 4-8 dies interconnected via UCIe
@@ -107,9 +116,20 @@ ngaisoc/
 5. Review trade-off analyses in `documentation/trade_off_analyses/`
 6. **Stakeholder Review:** See `documentation/stakeholder_review/` for executive materials
 
-## ⚠️ Performance Analysis Findings
+## ✅ Strategic Decision: Dual-Track Strategy Approved
 
-**Critical Update:** Initial performance modeling reveals the baseline architecture achieves **0.041 TFLOPS/mm²**, which is **48x below** the 2.0 TFLOPS/mm² target specified in the PRD.
+**Status:** 🟢 APPROVED - Execution Phase Begins  
+**Date:** January 2, 2026
+
+**Decision:** Proceed with both v1.0 (Efficiency Champion) and v2.0 (Performance Titan) in parallel.
+
+- **v1.0:** 508 TFLOPS FP16, 425W, Q4 2027 launch
+- **v2.0:** 5.9 PFLOPS FP16, 1,200W, Q1 2028 launch
+
+**Investment:** $88M NRE  
+**Expected Return:** $1.88B risk-adjusted NPV
+
+See [DUAL_TRACK_STRATEGY_APPROVED.md](documentation/DUAL_TRACK_STRATEGY_APPROVED.md) for complete implementation plan.
 
 ### Key Findings
 - **Baseline Performance:** 0.041 TFLOPS/mm² (target: 2.0)
