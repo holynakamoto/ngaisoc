@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# SystemC
+*.o
+*.a
+*.so
+*.exe
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.log
+*.out
+*.tmp
+
+# Simulation outputs
+sim_results/
+trace_files/
+*.vcd
+*.fsdb
+
+# Model outputs (keep README)
+outputs/*
+!outputs/README.md
+
+# Documentation builds
+docs/_build/
+*.pdf
+*.aux
+*.log
+
+# Temporary files
+*.bak
+*.backup
+
