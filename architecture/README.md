@@ -2,13 +2,32 @@
 
 This directory contains the complete architecture documentation for the NexGen-AI SoC.
 
-## ⭐ FROZEN Architecture
+## ⭐ Architecture Specifications
+
+### v1.0 - FROZEN (Current Baseline)
 
 **[ARCHITECTURE_SPEC_v1.0.md](ARCHITECTURE_SPEC_v1.0.md)** - **OFFICIAL ARCHITECTURE BASELINE**
 
 **Status:** ✅ APPROVED - ARCHITECTURE FROZEN  
 **Date:** January 2, 2026  
-**Configuration:** Option C (Hybrid Approach)
+**Configuration:** Option C (Hybrid Approach)  
+**Launch:** Q4 2027
+
+### v2.0 - PROPOSAL (Rubin-Competitive)
+
+**[ARCHITECTURE_SPEC_v2.0_RUBIN_COMPETITIVE.md](ARCHITECTURE_SPEC_v2.0_RUBIN_COMPETITIVE.md)** - **RUBIN-COMPETITIVE ULTRA**
+
+**Status:** 📋 PROPOSAL - Under Review  
+**Date:** January 2, 2026  
+**Configuration:** 8-Chiplet Ultra (Rubin-Competitive)  
+**Launch:** Q1 2028  
+**Decision Deadline:** January 15, 2026
+
+**Key Features:**
+- 5.9 PFLOPS FP16 (18% faster than Rubin Ultra)
+- 1,200W TDP (67% less power than Rubin)
+- 8.2 TB/s memory bandwidth (HBM4E)
+- 512 GB memory capacity
 
 This is the **frozen architecture specification**. All design work must conform to this baseline. Changes require formal Architecture Change Request (ACR) process.
 
@@ -86,6 +105,7 @@ See [ARCHITECTURE_SPEC_v1.0.md](ARCHITECTURE_SPEC_v1.0.md) Section "Architecture
 
 - [Performance Analysis](../../documentation/trade_off_analyses/performance_analysis.md) - Performance modeling results
 - [Stakeholder Review](../../documentation/stakeholder_review/) - Executive review materials
+- [Rubin Competitive Analysis](../../documentation/stakeholder_review/RUBIN_COMPETITIVE_ANALYSIS.md) - v2.0 vs Rubin Ultra comparison
 - [PRD](../../PRD.md) - Product Requirements Document
 
 ## Questions

@@ -14,6 +14,10 @@ This directory contains comprehensive materials for executive and stakeholder re
 3. **[stakeholder_presentation.md](stakeholder_presentation.md)** - Full 10-page presentation
 4. **[Technical Analysis](../../trade_off_analyses/performance_analysis.md)** - Deep technical dive
 
+### 🚀 v2.0 Architecture (Rubin-Competitive)
+5. **[ARCHITECTURE_SPEC_v2.0_RUBIN_COMPETITIVE.md](../../architecture/ARCHITECTURE_SPEC_v2.0_RUBIN_COMPETITIVE.md)** - v2.0 Ultra specification
+6. **[RUBIN_COMPETITIVE_ANALYSIS.md](RUBIN_COMPETITIVE_ANALYSIS.md)** - Head-to-head comparison with Rubin Ultra
+
 ### 📈 Visual Materials
 - `outputs/architecture_comparison.png` - Configuration comparison
 - `outputs/roofline_fp16.png` - Performance bottleneck analysis

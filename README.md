@@ -20,7 +20,8 @@ ngaisoc/
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
 ├── architecture/             # Architecture specifications and diagrams
-│   ├── ARCHITECTURE_SPEC_v1.0.md  # ⭐ FROZEN Architecture Baseline
+│   ├── ARCHITECTURE_SPEC_v1.0.md  # ⭐ FROZEN Architecture Baseline (Q4 2027)
+│   ├── ARCHITECTURE_SPEC_v2.0_RUBIN_COMPETITIVE.md  # 📋 v2.0 Proposal (Q1 2028)
 │   ├── overview.md
 │   ├── block_diagrams.md     # Comprehensive Mermaid block diagrams
 │   └── subsystem_specs/
