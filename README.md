@@ -20,6 +20,7 @@ ngaisoc/
 ├── README.md                 # This file
 ├── requirements.txt          # Python dependencies
 ├── architecture/             # Architecture specifications and diagrams
+│   ├── ARCHITECTURE_SPEC_v1.0.md  # ⭐ FROZEN Architecture Baseline
 │   ├── overview.md
 │   ├── block_diagrams.md     # Comprehensive Mermaid block diagrams
 │   └── subsystem_specs/
@@ -36,6 +37,8 @@ ngaisoc/
 ├── documentation/            # Technical documentation
 │   ├── trade_off_analyses/
 │   │   └── performance_analysis.md  # Detailed performance findings
+│   ├── stakeholder_review/   # Executive review materials
+│   ├── project_status/       # Status reports and milestones
 │   ├── integration_guides/
 │   └── mentorship_plans/
 └── tools/                    # Automation and methodology tools

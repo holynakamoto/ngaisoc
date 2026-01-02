@@ -68,6 +68,7 @@ The NexGen-AI SoC is a chiplet-based GPU architecture designed for scalable AI w
 
 ## Related Documentation
 
+- **[Architecture Specification v1.0](ARCHITECTURE_SPEC_v1.0.md)** ⭐ **FROZEN** - Official architecture baseline
 - [Block Diagrams](block_diagrams.md) - Comprehensive Mermaid diagrams of system architecture
 - [Subsystem Specifications](subsystem_specs/README.md) - Detailed subsystem specs
 - [Performance Analysis](../../documentation/trade_off_analyses/performance_analysis.md) - Performance modeling results
